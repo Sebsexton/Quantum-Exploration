@@ -1,8 +1,6 @@
 # Quantum-Exploration
 A record of my quantum research and eperimentation.
 
----
-
 ## Why this repo exists
 
 A living record of my hands‑on exploration of quantum computing with an emphasis on security. It documents what I built, what I learned, and where I want to go. I publish notebooks, reproducible experiments, and short research notes.
@@ -67,7 +65,7 @@ jupyter lab
 * [ ] PQC benchmarks and a hybrid TLS demo; compare to classical baselines.
 * [ ] ZX‑calculus or transpiler‑level optimisations on small circuits; report depth/2‑qubit gate reductions.
 
-## Impact framing (for admissions)
+## Impact framing
 
 * **What I built:** Short bullet list with links to executable notebooks.
 * **What I learned:** One paragraph per project; be honest about dead‑ends.
