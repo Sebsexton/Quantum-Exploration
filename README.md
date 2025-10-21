@@ -44,7 +44,7 @@ quantum-portfolio/
 
 ```bash
 # clone
-git clone https://github.com/sebsexton/quantum-exploration
+git clone https://github.com/Sebsexton/Quantum-Exploration
 cd quantum-portfolio
 
 # pick an environment
